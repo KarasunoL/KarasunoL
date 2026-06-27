@@ -24,7 +24,8 @@ I love building apps, solving problems, and learning new technologies. Currently
 ---
 
 ### 🚀 What I'm Up To
-- 🔭 **Currently working on:** [Your Project Name](https://github.com/Karasuno/your-repo)
+- 🔭 **Currently working on:** [Kotlin
+  ](https://github.com/Karasuno/Kotlin)
 - 🌱 **Learning:** Advanced Kotlin and System Architecture
 - 💬 **Ask me about:** Kotlin, Node.js, or Anime!
 - 🥅 **2026 Goals:** Contribute to 5 major Open Source projects
