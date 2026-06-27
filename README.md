@@ -13,9 +13,9 @@ I love building apps, solving problems, and learning new technologies. Currently
   ## Languages
   <img src="https://skillicons.dev/icons?i=kotlin,js,html,css" alt="Languages" /><br>
   ## Frontend
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,jetpack-compose" alt="Frontend" /><br>
   ## Backend and DB
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres" alt="Backend and DB" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase" alt="Backend and DB" /><br>
   ## DevOps
   <img src="https://skillicons.dev/icons?i=git" alt="DevOps" /><br>
   ## IDEs
